@@ -1,4 +1,4 @@
 -cp src
 -main Drrf
--neko Drrf.n
+-python Drrf.py
 -lib mcli
